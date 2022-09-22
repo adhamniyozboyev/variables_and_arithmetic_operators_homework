@@ -5,4 +5,5 @@
 # Find the sum of  'num_one' and 'num_two' then assign to 'variable_total'
 num_one=5
 num_two=4
-print(num_one+num_two)
+variable_total=num_one+num_two
+print(variable_total)
